@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nutrizione", "Nutrizione.csproj", "{1F27850C-01E3-4E3F-80C9-461EFBC08B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Var.Utilities.CsvHelper", "..\Var.Utilities.CsvHelper\Var.Utilities.CsvHelper.csproj", "{6EA00AA5-EF25-4523-9854-AF16E60B96FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F27850C-01E3-4E3F-80C9-461EFBC08B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F27850C-01E3-4E3F-80C9-461EFBC08B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F27850C-01E3-4E3F-80C9-461EFBC08B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F27850C-01E3-4E3F-80C9-461EFBC08B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA00AA5-EF25-4523-9854-AF16E60B96FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA00AA5-EF25-4523-9854-AF16E60B96FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA00AA5-EF25-4523-9854-AF16E60B96FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA00AA5-EF25-4523-9854-AF16E60B96FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E52AF60-ACDB-41B4-9A36-1156DC335162}
+	EndGlobalSection
+EndGlobal
